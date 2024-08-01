@@ -1,0 +1,59 @@
+Direncin SI birimini verin.
+a) ohm/metre2 b) ohm metre2 c) ohm metre d) ohm/metre
+Denklem → ∑e = ∑IR hangi yasaya uygulanabilir?
+a) Kirchhoff'un ikinci yasası b) Kirchhoff'un bağlantı kuralı c) Kirchhoff'un üçüncü yasası d) Newton Yasası
+Aşağıdakilerden hangisi mıknatıslar tarafından çekilmez?
+a) Demir b) Kobalt c) Bakır d) Nikel
+Aşağıdakilerden hangisinde delikler yük taşıyıcısıdır?
+a) İçsel yarı iletkenler b) İyonik katılar c) n tipi yarı iletkenler d) Metaller
+Mutlak sıfırda, Si aşağıdakilerden hangisi gibi davranır?
+a) Ametal b) Metal c) Yalıtkan d) Kapasitör
+Yarı iletken diyot ne olarak kullanılır?
+a) Osilatör b) Amplifikatör c) Doğrultucu d) Modülatör
+Zener diyot ne olarak kullanılır?
+a) Osilatör b) Regülatör c) Doğrultucu d) Filtre
+Transistör neyden oluşur?
+a) Çip b) Yalıtkan c) Yarı iletken d) Metal
+Güneş gözlükleri neyden yapılır?
+a) Renkli gözlükler b) Kalay cam c) Silika d) Polaroidler
+Aşağıdakilerden hangisi dispersiyona neden olur?
+a) Kırılma b) Yansıma c) Toplam iç yansıma d) Toplam iç dispersiyon
+Atmosfer olmadığında gökyüzünün rengi ne olur?
+a) Beyaz b) Koyu c) Mavi d) Pembe
+Aşağıdakilerden hangisi δ ile gösterilir?
+a) Yatay bileşen b) Manyetik meridyen c) Manyetik sapma d) Manyetik eğim
+Dünya'nın manyetik Kuzey Kutbu'nda, eğim açısının değeri nedir?
+a) Sıfır b) Minimum c) Sonsuzluk d) Maksimum
+Kapalı bir yüzeyden geçen net manyetik akı nedir?
+a) Pozitif b) Negatif c) Sıfır d) Yüzeyin yapısına bağlıdır
+Aşağıdakilerden hangisi manyetik alanın (manyetizma) kaynağıdır?
+a) Mekanik köken b) Elektriksel köken c) Kimyasal köken d) Potansiyel köken
+Elmas _______ örneğidir
+a) hidrojen bağı olan katı b) elektrovalent katı c) kovalent katı d) cam
+Aşağıdakilerden hangisi kristal sistemi değildir?
+a) Kübik b) Üçgen c) Triklinik d) Heksaklinik
+Hangi tür katı kristaller ısı ve elektriği iletir?
+a) İyonik b) Kovalent c) Moleküler d) Metalik
+Kuvars ___________ örneğidir
+a) moleküler katılar b) iyonik katılar c) kovalent katılar d) metalik katılar
+Aşağıdakilerden hangisi gerçek bir çözeltidir?
+a) Tuz çözeltisi b) Mürekkep c) Kan d) Nişasta çözeltisi
+Püno taşı neye örnektir?
+a) Katı aerosol b) Emülsiyon c) Sıvı aerosol d) Katı köpük
+Aşağıdaki kuvvetlerden hangisi fiziksel adsorpsiyonda rol oynar?
+a) Yerçekimi kuvveti b) Manyetik kuvvet c) Van der Waals kuvveti d) Elektromanyetik kuvvet
+Aşağıdakilerden hangisi hidrokarbonların çatlaması sırasında mevcuttur?
+a) Bakır b) Zeolit ​​c) Nikel d) Molibden
+Bir katalizör reaksiyon sırasında nasıl değişir?
+a) Fiziksel olarak b) Kütlesel olarak c) Kimyasal olarak d) Nicel olarak
+İnsan vücudunda ilaç etkisi için hedef görevi görmeyen bileşiği tanımlayın?
+a) RNA b) DNA c) C Vitamini d) Protein
+Alitame, kamış şekerinden ______ kat daha tatlıdır. a) 50 b) 100 c) 600 d) 2000
+Bulaşık yıkama sıvıları ______ örnekleridir
+a) sabunlar b) anyonik deterjanlar c) katyonik deterjanlar d) iyonik olmayan deterjanlar
+Aminler ______ türevleridir
+a) NCl3 b) NH3 c) N2 d) CH3NH2
+Aminlerin azot atomunun kaç tane yalnız elektron çifti vardır?
+a) 0 b) 1 c) 2 d) 3
+Aşağıdakilerden hangisi en az reaktif fonksiyonel gruptur?
+a) Alkoller b) Eterler c) Aldehitler d) Ketonlar

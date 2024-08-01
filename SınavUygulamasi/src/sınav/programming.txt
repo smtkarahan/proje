@@ -1,0 +1,58 @@
+Performans kısıtlaması göz önünde bulundurulduğunda, çoklu iş parçacıklı bir ortamda hangi Set sınıfı en popüler olmalıdır?
+a.)HashSet b.)ConcurrentSkipListSet c.)LinkedHashSet d.)CopyOnWriteArraySet
+Performans kısıtlaması göz önünde bulundurulduğunda, çoklu iş parçacıklı bir ortamda hangi Map sınıfı en popüler olmalıdır?
+a.)Hashtable b.)CopyOnWriteMap c.)ConcurrentHashMap d.)ConcurrentMap
+Bir koleksiyondan öğelerin kaldırılmasına izin veren hangisidir?
+a.)Numaralandırma b.)Yineleyici c.)Her ikisi d.)Yukarıdakilerden hiçbiri
+Bir yığında, bir kullanıcı boş bir yığından bir öğeyi kaldırmaya çalışırsa buna _________ denir
+a) Alt taşma b) Boş koleksiyon c) Taşma d) Çöp Toplama
+Kendi kendini organize eden liste _______ verimliliğini artırır
+a) ikili arama b) atlama araması c) alt liste araması d) doğrusal arama
+Programın derlenmesi sırasında sembol tabloları __________ kullanılarak verimli bir şekilde uygulanır
+a) tek bağlantılı liste b) çift bağlantılı liste c) kendi kendini organize eden liste d) dizi
+Kendi kendini organize eden liste _____ iyileştirir
+a) ortalama erişim süresi b) ekleme c) silme d) ikili arama
+Bunlardan hangisi Java'da değişken adı için kullanılamaz?
+a) tanımlayıcı ve anahtar sözcük b) tanımlayıcı c) anahtar sözcük d) belirtilenlerden hiçbiri
+Aşağıdakilerden hangisi Java'da bir bellek segmenti değildir? a) Kod Segmenti b) Kayıt Segmenti c) Yığın Segmenti d) Yığın Segmenti
+Java'da bellek yetersiz olduğunda hangi istisna atılır?
+a) MemoryError b) OutOfMemoryError c) MemoryOutOfBoundsException d) MemoryFullException
+Bu sınıflardan hangisi Java'daki her sınıfın üst sınıfıdır?
+a) ArrayList sınıfı b) Soyut sınıf c) Nesne sınıfı d) Dize sınıfı
+Bu anahtar sözcüklerden hangisi Java'da Yöntem geçersiz kılmayı önlemek için kullanılabilir?
+a) final b) protected c) static d) constant
+Bu paketlerden hangisi Java'da Stack Overflow istisnasını içerir?
+a) java.io b) java.system c) java.lang d) java.util
+Aşağıdakilerden hangisi erişim değiştiricisi değildir?
+a) Protected b) Void c) Public d) Private
+Bu String sınıfının hangi yöntemi String nesnesinin uzunluğunu elde etmek için kullanılır?
+a) get() b) Sizeof() c) lengthof() d) length()
+Bu oluşturuculardan hangisi boş bir String nesnesi oluşturmak için kullanılır?
+a) String() b) String(void) c) String(0) d) Belirtilenlerden hiçbiri
+Bunlardan hangisi çıktı tamponlarında bulunan tüm verileri temizlemek için bir yöntemdir?
+a) clear() b) flush() c) fflush() d) close()
+Bunlardan hangisi Character wrapper'ın üst sınıfıdır?
+a) Long b) Digits c) Float d) Number
+Java'nın hangi kavramı gerçek dünya nesnelerini sınıf açısından dönüştürmenin bir yoludur?
+a) Polimorfizm b) Kapsülleme c) Soyutlama d) Kalıtım
+Bunlardan hangisi bir iş parçacığının hala çalışıp çalışmadığını bulmak için kullanılır?
+a) run() b) Alive() c) isAlive() d) checkRun()
+Bunlardan hangisi Runnable arayüzünü uygulamak için kullanılır?
+a) stop() b) run() c) runThread() d) stopThread()
+Aşağıdakilerden hangisi genel yöntemleri normal bir yöntem olarak çağırmamızı sağlar?
+a) Tür Arayüzü b) Arayüz c) İç sınıf d) Belirtilenlerin hepsi
+Bunlardan hangisi bitsel bir operatör değildir?
+a) & b) &= c) |= d) <=
+Bu anahtar sözcüklerden hangisi Java'da arayüzleri tanımlamak için kullanılır?
+a) intf b) Intf c) arayüz d) Arayüz
+Bu erişim belirteçlerinden hangisi main() yöntemi için kullanılmalıdır?
+a) private b) public c) protected d) belirtilenlerin hiçbiri
+Bir programın hangi bölümlerinin bir sınıfın üyelerine erişebileceğini kontrol edebileceğimiz süreç nedir?
+a) Çok biçimlilik b) Soyutlama c) Kapsülleme d) Özyineleme
+Bu erişim belirteçlerinden hangisi başka bir alt sınıf tarafından miras alınabilmesi için sınıf için kullanılmalıdır? a) public b) private c) protected d) belirtilenlerden hiçbiri
+Bu anahtar sözcüklerden hangisi bir sınıfı miras almak için kullanılmalıdır?
+a) super b) this c) extend d) extends
+Hangisi miras türü değildir?
+a) Tek miras b) Çift miras c) Hiyerarşik miras d) Çoklu miras
+Üst sınıf ve alt sınıf aynı değişken adına sahipse, üst sınıfı kullanmak için hangi anahtar sözcük kullanılmalıdır?
+a) super b) this c) upper d) classname
